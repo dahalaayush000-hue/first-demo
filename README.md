@@ -1,6 +1,5 @@
 # first-demo
 The first git repository 
 <br>
-so late started
+so late started.But i started at least.
 <br> 
-Not any important commits, just wanted to keep the green dot in the profile <hehe>
